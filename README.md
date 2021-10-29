@@ -9,6 +9,8 @@
 
 > git clone https://github.com/Dark-Knight-Hiruwa/HTML-SCRAPER.git
 
+> python req.py
+
 > python html.py
 
 - NOW ENTER YOUR TARGET WEBSITE LINK 😈
