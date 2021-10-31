@@ -7,6 +7,12 @@
 
 > pkg upgrade
 
+> pkg install python
+
+> pip install requests
+
+> termux-setup-storage
+
 > git clone https://github.com/Dark-Knight-Hiruwa/HTML-SCRAPER.git
 
 > python req.py
